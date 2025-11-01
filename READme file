@@ -1,0 +1,90 @@
+# 🧑‍🎓 Student Management System
+
+A simple yet efficient **Student Management System** built using **Python**, designed to store and manage student data effectively.  
+This project demonstrates the use of **Pickle** for data persistence and includes modular Python scripts for better structure and scalability.
+
+---
+
+## 🏫 Project Information
+
+**Project Title:** Student Management System  
+**Developed By:** Chetanya Upadhyay  
+**Guided By:** Mr. Satyam Mishra (AU Foundation)
+
+---
+
+## 🚀 Features
+
+- Add, update, and delete student records  
+- Persistent storage using the `pickle` module (`data.pkl`)  
+- Easy-to-use structure for data handling  
+- Modularized code for better readability  
+- GUI support using `Tkinter` (optional)  
+
+---
+
+## 🧠 Project Structure
+Students/
+│
+├── app.py # Main entry point
+├── GUI.py # GUI interface (Tkinter-based)
+├── storage.py # Handles save/load operations
+├── students.py # Student class and logic
+├── data.pkl # Stored student data (pickle)
+├── test.py # Testing file
+└── README.md # Project documentation
+
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**
+- **Pickle Module** (for serialization)
+- **OS Module** (for file management)
+- **Tkinter** (for GUI – optional)
+
+---
+
+## 💡 How to Run
+
+### 1️⃣ Clone this repository
+```bash
+git clone https://github.com/Chetanya2005/Students.git
+cd Students
+2️⃣ Run the application
+               python app.py
+
+📚 Learning Outcomes
+
+Understanding Python file handling
+
+Implementing serialization with Pickle
+
+Working with modular code
+
+Introduction to GUI using Tkinter
+
+👨‍💻 Author
+
+Chetanya Upadhyay
+📧 Email: chetanya2205@gmail.com
+
+🌐 GitHub: @Chetanya2005
+
+🎓 Acknowledgement
+
+This project was developed under the guidance of Mr. Satyam Mishra (AU Foundation).
+Special thanks for the mentorship, support, and valuable insights throughout the project.
+
+⭐ Support
+
+If you found this project helpful, don’t forget to ⭐ star the repository on GitHub!
+Your feedback and suggestions are always welcome 💬
+
+               
+---
+
+Would you like me to also include a **"Future Enhancements"** section (like adding a login system, database, or analytics)? It makes your README look more impressive for recruiters and hackathons.
+
+               
